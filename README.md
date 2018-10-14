@@ -17,3 +17,7 @@ There are no special setup instructions, just build and run!
 ## Maintainers
 
 @jarrodparkes
+
+
+## Project Author
+@abhimanyu10gupta
